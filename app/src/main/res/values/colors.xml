@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="purple_primary">#5E3D9F</color> <!-- ungu untuk header & bottom bar -->
+    <color name="yellow_bg">#FFFF00</color>      <!-- background TextView -->
+    <color name="purple_accent">#4B2E83</color>  <!-- shade untuk tombol jika perlu -->
+    <color name="warnabiru">#3DCE0C</color>      <!-- optional, contoh sebelumnya -->
 </resources>
